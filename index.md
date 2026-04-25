@@ -25,6 +25,7 @@ This was used as a proxy to determine how much value current natural science stu
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 # Results
 
+
 <img src="<static\imgs\line_plot.png" alt="line plot visual. "  width="500"/>
 A line plot displaying the resultant data.
 <img src="static\imgs\swarm_plot.png" alt="swarm plot visual. "  width="500"/>
