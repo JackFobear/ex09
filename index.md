@@ -25,8 +25,6 @@ This was used as a proxy to determine how much value current natural science stu
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 # Results
 
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
 <img src="<static\imgs\line_plot.png" alt="line plot visual. "  width="500"/>
 A line plot displaying the resultant data.
 <img src="static\imgs\swarm_plot.png" alt="swarm plot visual. "  width="500"/>
@@ -42,4 +40,3 @@ There would be some potential costs of uploading readings to help make COMP 110 
 
 As for how this idea can be refined to improve future classes, instead of only publishing readings that benefit natural science students who aspire to do research or any other academic work, it could be possible for the COMP 110 team to share readings that show the value of COMP 110 topics across all fields. For example, one week it could be shown how learning computer science can help STEM majors, such as physics, with their line of work, and then the next week can show how a knowledge of COMP 110 topics can help humanities majors such as political science or dramatic arts majors. This refinement still possesses that problem of taking time out of the COMP 110’s day to find said articles, which is why the team can ask UNC professors to provide a written summary of why topics found in COMP 110 matter in their field. This refinement makes it so that COMP 110 doesn’t have to search the internet constantly to find new articles, and having UNC professors share their stories gives first-hand, relatable perspectives of COMP 110’s use in careers, allowing students to more easily appreciate the value of what they’re learning in COMP 110.
 
-This is basic paragraph text.
